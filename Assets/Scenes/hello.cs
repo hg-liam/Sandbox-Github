@@ -7,7 +7,7 @@ public class hello : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gfzeukgvzuieghui
+        
     }
 
     // Update is called once per frame
